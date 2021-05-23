@@ -1,0 +1,6 @@
+{
+    "go.gopath": "C:\\Users\\s3702\\go;",
+    "gopls": {
+        "experimentalWorkspaceModule": true
+    }
+}
